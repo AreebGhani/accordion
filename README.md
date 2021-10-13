@@ -1,4 +1,4 @@
-##### Docs https://areebghani.github.io/accordion/
+##### Demo https://areebghani.github.io/accordion/
  
  ## Let's Go . . . ! !
  
